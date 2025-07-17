@@ -9,7 +9,3 @@ struct BreastCancerPredictorApp: App {
         }
     }
 }
-
-struct GraphView: View {
-    // ...existing code...
-}
